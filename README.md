@@ -1,4 +1,4 @@
-# 🍕 Maven Pizza Sales Analysis
+# 🍕 Pizza Sales Analysis
 
 ![Pizza Banner](https://github.com/user-attachments/assets/190fced6-a2a6-4382-919f-3d89de89cddf)
 
